@@ -21,8 +21,8 @@
     "tailwindcss": "latest"
   },
 "devDependencies": {
-  "typescript": "^5.9.0",
   "@angular/build": "^21.0.0",
+  "typescript": "5.9.0",
   ...
   }
 }
